@@ -11,46 +11,31 @@
 #### 支持包括微信支付、开放平台、公众号、企业微信/企业号、小程序等微信功能的后端开发。
 
 <p align="center">
-  <b>特别赞助商</b>
+  <b>特别赞助</b>
 </p>
 <br/>
 <table align="center" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
+			<td align="left" valign="middle">
+        <a href="http://mp.weixin.qq.com/mp/homepage?__biz=MzI3MzAwMzk4OA==&hid=1&sn=f31af3bf562b116b061c9ab4edf70b61&scene=18#wechat_redirect" target="_blank">
+				  <img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/qrcodes/mp.png">
+        </a>
+			</td>
       <td align="center" valign="middle" width="250">
         <a href="https://www.duohui.cn/?utm_source=WxJava&utm_medium=web&utm_campaign=WxJava_github" title="多会" target="_blank">
           <img height="60px" src="https://qiniu.cdn.duohui.co/brand/duohui.png" title="多会 - 活动服务销售平台">
           <p>活动服务销售平台</p>
         </a>
       </td>
-    </tr>
-  </tbody>
-</table>
-
-<p align="center">
-  <b>相关推荐</b>
-</p>
-<table align="center" border="0">
-	<tbody >
-		<tr>
-			<td align="left" valign="middle">
-        <a href="http://mp.weixin.qq.com/mp/homepage?__biz=MzI3MzAwMzk4OA==&hid=1&sn=f31af3bf562b116b061c9ab4edf70b61&scene=18#wechat_redirect" target="_blank">
-				  <img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/qrcodes/mp.png">
-        </a>
+			<td align="center" valign="middle">
+				<a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=7makzf5h" target="_blank">
+					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/banners/aliyun.jpg">
+				</a>
 			</td>
 			<td align="center" valign="middle">
 				<a href="https://cloud.tencent.com/redirect.php?redirect=1014&cps_key=a4c06ffe004dbcda44036daa1bf8f876&from=console" target="_blank">
 					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/banners/tcloud.jpg">
-				</a>
-			</td>
-			<td align="center" valign="middle">
-				<a href="https://www.vultr.com/?ref=7888900-4F" target="_blank">
-					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/banners/vultr.jpg">
-				</a>
-			</td>
-			<td align="center" valign="middle">
-				<a href="https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=7makzf5h" target="_blank">
-					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/banners/aliyun.jpg">
 				</a>
 			</td>
 		</tr>
@@ -113,10 +98,10 @@
 </details>
 
 ----------------------------------
-### 使用案例
+### 应用案例
 完整案例登记列表，请[【访问这里】](https://github.com/Wechat-Group/weixin-java-tools/issues/729)查看，欢迎登记更多的案例。
 
-以下为部分案例列表：
+以下为节选的部分案例：
 
 #### 开源项目：
 - 基于微信公众号的签到、抽奖、发送弹幕程序：https://github.com/workcheng/weiya
@@ -144,7 +129,6 @@
 - 王朝社区（比亚迪新能源社区）
 - 极吼吼手机上门回收换新
 - 未来信封 
-
 
 #### 公众号：
 - 中国电信上海网厅（sh_189）
@@ -177,7 +161,7 @@
 ### 贡献者列表
 特别感谢参与贡献的所有同学，所有贡献者列表请在[此处](https://github.com/Wechat-Group/WxJava/graphs/contributors)查看，欢迎大家继续踊跃贡献代码！
 <details>
-<summary>点击此处展开查看贡献次数最多的几位同学</summary>
+<summary>点击此处展开查看贡献次数最多的几位小伙伴</summary>
 
 1. [chanjarster (Daniel Qian)](https://github.com/chanjarster)
 1. [binarywang (Binary Wang)](https://github.com/binarywang)
